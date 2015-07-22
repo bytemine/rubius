@@ -4,12 +4,12 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{rubius2}
-  s.version = "0.1.0"
+  s.name = %q{rubius}
+  s.version = "0.0.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ralph Rooding"]
-  s.date = %q{2015-07-22}
+  s.date = %q{2011-04-28}
   s.description = %q{Rubius provides a simple interface to RADIUS authentication}
   s.email = %q{ralph@izerion.com}
   s.extra_rdoc_files = [
@@ -41,7 +41,7 @@ Gem::Specification.new do |s|
     "test/test_rails.rb",
     "test/test_string.rb"
   ]
-  s.homepage = %q{http://github.com/bytemine/rubius}
+  s.homepage = %q{http://github.com/rahvin/rubius}
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.5.2}
